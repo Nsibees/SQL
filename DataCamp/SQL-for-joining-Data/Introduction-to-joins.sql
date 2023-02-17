@@ -29,8 +29,7 @@ on countries.code = cities.country_code
 
 
 Instructions 3/3
-30 XP
-3
+
 Complete the SELECT statement to keep only the name of the city, the name of the country, and the region the country is located in (in the order specified).
 Alias the name of the city AS city and the name of the country AS country.
 
